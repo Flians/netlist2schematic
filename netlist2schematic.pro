@@ -68,6 +68,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 DISTFILES += \
     CMakeLists.txt \
+    README.md \
     conf/default.svg \
     conf/gateDelays.delay \
     conf/rsfq.svg \
